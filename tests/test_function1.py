@@ -1,7 +1,7 @@
 # fichier: test_calculatrice.py
 
 import pytest
-from docker_rep.app.function1 import addition, soustraction, multiplication, division
+from app.function1 import addition, soustraction, multiplication, division
 
 
 def test_addition():
